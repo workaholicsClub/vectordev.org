@@ -56,7 +56,7 @@
 		<div class="about-content">
 			<h2 class="h2">О нас</h2>
 			<p class="main-text-about">
- <span style="font-size: 14pt;"><i>Мы&nbsp;приветствуем вас на&nbsp;сайте &laquo;Вектор здоровья&raquo;. Проект в&nbsp;первую очередь адресован родителям, которых заботит проблема реабилитации детей с&nbsp;детским церебральным параличом.</i></span><br>
+ <span style="font-size: 14pt;"><i>Мы&nbsp;приветствуем вас на&nbsp;портале по реабилитации детей с заболеваниями центральной нервной системы. Проект в&nbsp;первую очередь адресован родителям, которых заботит проблема реабилитации детей с&nbsp;детским церебральным параличом.</i></span><br>
  <i> </i><span style="font-size: 14pt;"><i> </i></span><i> </i>
 			</p>
  <i> </i>
@@ -457,8 +457,9 @@
  <b>Телефон:</b> <a href="#callback" class="js-popup ">+7 495 647 08 18</a> <a href="#callback" class="js-popup ">Позвонить</a>
 			</p>
 			<p>
- <b>E-mail:</b> <a href="mailto:office@healthvector.ru">office@healthvector.ru</a>
+ <b>E-mail:</b>&nbsp;<a href="mailto:ithealthvector@gmail.com">ithealthvector@gmail.com</a>&nbsp;
 			</p>
+			<br>
 		</div>
 	</div>
  </section>

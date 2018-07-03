@@ -66,8 +66,8 @@
         </div>
         <div class="block-group">
           <div class="block coll-3 coll-4-tablet first">
-            <a href="/" class="logo phone-hide"><img src="/image/ano-vector-logo.jpg" alt=""></a>
-            <a href="/" class="logo phone-show"><img src="/image/ano-vector-logo-small.jpg" alt=""></a>
+            <a href="/" class="logo phone-hide"><img src="/image/ano-vector-logo.svg" alt=""></a>
+            <a href="/" class="logo phone-show"><img src="/image/ano-vector-logo-small.svg" alt=""></a>
           </div>
           <div class="block coll-5 coll-3-desktop coll-4-tablet phone-hide">
             <div class="header-name">Портал по реабилитации детей с ДЦП</div>
